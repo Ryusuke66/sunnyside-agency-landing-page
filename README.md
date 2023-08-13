@@ -26,8 +26,9 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 #### Mobile design
 
 <p float="left">
-  <img src="screenshots/mobile-design-1.png" width="49%" />
-  <img src="screenshots/mobile-design-2.png" width="49%" />
+  <img src="screenshots/mobile-design-1.png" width="33%" />
+  <img src="screenshots/mobile-design-2.png" width="33%" />
+  <img src="screenshots/mobile-design-3.png" width="33%" />
 </p>
 
 ### The challenge
