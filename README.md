@@ -14,16 +14,16 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
-#### Desktop design
+## Desktop design
 
 <p float="left">
   <img src="screenshots/desktop-design-1.png" width="49%" />
   <img src="screenshots/desktop-design-2.png" width="49%" />
 </p>
 
-#### Mobile design
+## Mobile design
 
 <p float="left">
   <img src="screenshots/mobile-design-1.png" width="33%" />
