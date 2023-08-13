@@ -25,7 +25,10 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 #### Mobile design
 
-| ![](./screenshots/mobile-design-1.png) | ![](./screenshots/mobile-design-2.png)
+<p float="left">
+  <img src="screenshots/mobile-design-1.png" width="49%" />
+  <img src="screenshots/mobile-design-2.png" width="49%" />
+</p>
 
 ### The challenge
 
