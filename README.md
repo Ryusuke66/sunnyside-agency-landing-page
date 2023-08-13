@@ -18,7 +18,10 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 #### Desktop design
 
-| ![](./screenshots/desktop-design-1.png) | ![](./screenshots/desktop-design-2.png) |
+<p float="left">
+  <img src="/screenshots/desktop-design-1" width="50%" />
+  <img src="/screenshots/desktop-design-2" width="50%" />
+</p>
 
 #### Mobile design
 
