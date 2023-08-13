@@ -18,11 +18,11 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 #### Desktop design
 
-![](./screenshots/desktop-design-1.png) ![](./screenshots/desktop-design-2.png)
+![](./screenshots/desktop-design-1.png) | ![](./screenshots/desktop-design-2.png)
 
 #### Mobile design
 
-![](./screenshots/mobile-design-1.png) ![](./screenshots/mobile-design-2.png)
+![](./screenshots/mobile-design-1.png) | ![](./screenshots/mobile-design-2.png)
 
 ### The challenge
 
